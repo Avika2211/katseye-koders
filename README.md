@@ -1,4 +1,4 @@
-# 🏆 Offroad Semantic Segmentation: Complete Project Report By Katseye Koders: Avika Joshi and Aditi Gupta
+# 🏆 Offroad Semantic Segmentation: Complete Project Report By Katseye Koders- Avika Joshi and Aditi Gupta
 
 *Date:* February 27, 2026
 
