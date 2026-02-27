@@ -63,6 +63,18 @@ Multi-class semantic segmentation on synthetic desert environments with *signifi
 | Output Classes | 6 |
 | Pretrained | ImageNet |
 
+*Data folder Structure:*
+data/
+├── train/
+│   ├── images/
+│   └── segmentation/       
+├── val/
+│   ├── images/
+│   └── segmentation/
+├── test/
+│   ├── images/
+│   └── segmentation/    
+
 ---
 
 ## 3. Training Process
