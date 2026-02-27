@@ -76,7 +76,7 @@ Multi-class semantic segmentation on synthetic desert environments with *signifi
 | Parameter | Value |
 |-----------|-------|
 | Epochs | 200 (with early stopping) |
-| Batch Size | 6 |
+| Batch Size | 2 |
 | Learning Rate | 4e-4 (with warmup) |
 | Optimizer | AdamW |
 | LR Schedule | Cosine Annealing |
