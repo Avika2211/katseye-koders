@@ -1,7 +1,6 @@
-# 🏆 Offroad Semantic Segmentation
-# Complete Project Report
+# 🏆 Offroad Semantic Segmentation: Complete Project Report By Katseye Koders: Avika Joshi and Aditi Gupta
 
-*Date:* February 28, 2026
+*Date:* February 27, 2026
 
 *Competition:* Duality AI's Offroad Semantic Scene Segmentation Hackathon
 
@@ -9,13 +8,13 @@
 
 ## 📑 Table of Contents
 
-1. [Executive Summary](#executive-summary)
-2. [Model Architecture](#model-architecture)
-3. [Training Process](#training-process)
-4. [Performance Analysis](#performance-analysis)
-5. [Visual Results](#visual-results)
-6. [Key Findings](#key-findings)
-7. [Insights & Conclusions](#insights--conclusions)
+1. [Executive Summary]
+2. [Model Architecture]
+3. [Training Process]
+4. [Performance Analysis]
+5. [Visual Results]
+6. [Key Findings]
+7. [Insights & Conclusions]
 
 ---
 
@@ -221,5 +220,3 @@ Based on validation mIoU of *0.7256*:
 ---
 
 *End of Report*
-
-Generated automatically from model evaluation and analysis
