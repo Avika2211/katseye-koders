@@ -64,16 +64,17 @@ Multi-class semantic segmentation on synthetic desert environments with *signifi
 | Pretrained | ImageNet |
 
 *Data folder Structure:*
-data/
-├── train/
-│   ├── images/
-│   └── segmentation/       
-├── val/
-│   ├── images/
-│   └── segmentation/
-├── test/
-│   ├── images/
-│   └── segmentation/    
+
+data/<br>
+├── train/<br>
+│   ├── images/<br>
+│   └── segmentation/<br>      
+├── val/<br>
+│   ├── images/<br>
+│   └── segmentation/<br>
+├── test/<br>
+│   ├── images/<br>
+│   └── segmentation/<br>   
 
 ---
 
