@@ -70,7 +70,7 @@ Multi-class semantic segmentation on synthetic desert environments with *signifi
 
 ### Training Overview
 
-![Training Overview](../graphs/training_overview.png)
+<img width="1271" height="878" alt="Screenshot 2026-02-27 201741" src="https://github.com/user-attachments/assets/fc159b2b-1fa2-4770-a8e2-af122b580417" />
 
 ### Training Configuration
 
