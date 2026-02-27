@@ -108,7 +108,8 @@ Multi-class semantic segmentation on synthetic desert environments with *signifi
 
 ### Overall Performance
 
-![Performance Comparison](../charts/performance_comparison.png)
+<img width="2045" height="1284" alt="Screenshot 2026-02-27 203310" src="https://github.com/user-attachments/assets/bd62532f-561c-49e9-b864-653d03989aeb" />
+
 
 ### Per-Class Detailed Results
 
@@ -123,7 +124,8 @@ Multi-class semantic segmentation on synthetic desert environments with *signifi
 
 ### Confusion Matrix
 
-![Confusion Matrix](../charts/confusion_matrix.png)
+<img width="2141" height="958" alt="Screenshot 2026-02-27 203245" src="https://github.com/user-attachments/assets/f79334af-e6bd-4d69-abf3-5c4138313255" />
+
 
 ---
 
@@ -131,11 +133,11 @@ Multi-class semantic segmentation on synthetic desert environments with *signifi
 
 ### Validation Set Results
 
-![Validation Results](../visualizations/validation_results.png)
+<img width="1312" height="1266" alt="Screenshot 2026-02-27 203032" src="https://github.com/user-attachments/assets/49749d9f-405f-4add-8825-7ea0f8ad55e9" />
 
 ### Test Set Predictions
 
-![Test Results](../visualizations/test_results.png)
+<img width="1735" height="1275" alt="Screenshot 2026-02-27 202920" src="https://github.com/user-attachments/assets/2ba5e387-ab07-4dd7-8268-ae868b4a6267" />
 
 ---
 
@@ -154,6 +156,10 @@ Multi-class semantic segmentation on synthetic desert environments with *signifi
    - Class_39
 
 3. *Good Generalization:* Aggressive augmentation prevented overfitting
+
+<img width="1727" height="1285" alt="Screenshot 2026-02-27 203344" src="https://github.com/user-attachments/assets/41958987-1e0d-42d6-8f0c-93c581586a82" />
+<img width="1404" height="1275" alt="Screenshot 2026-02-27 203108" src="https://github.com/user-attachments/assets/cd3ac249-b65a-48f8-a91d-05a590ece723" />
+
 
 ### ⚠️ Areas for Improvement
 
@@ -198,30 +204,6 @@ Based on validation mIoU of *0.7256*:
 | Similar Conditions | 0.7111 - 0.7401 | High |
 | Moderate Domain Shift | 0.6676 - 0.7111 | Medium |
 | Strong Domain Shift | 0.6168 - 0.6676 | Medium-Low |
-
----
-
-## 8. Submission Files
-
-
-final_submission/
-├── report/
-│   └── COMPREHENSIVE_REPORT.md          ← This document
-├── graphs/
-│   └── training_overview.png            ← Training curves
-├── charts/
-│   ├── performance_comparison.png       ← Metrics comparison
-│   └── confusion_matrix.png             ← Confusion analysis
-├── visualizations/
-│   ├── validation_results.png           ← Val set samples
-│   └── test_results.png                 ← Test predictions
-├── predictions/
-│   ├── masks/                           ← SUBMIT THESE
-│   └── colored/                         ← For review
-├── model/
-│   └── best_model.pth                   ← Trained weights
-└── presentation/
-    └── project_presentation.pdf         ← Slides
 
 
 ---
