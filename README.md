@@ -16,7 +16,6 @@
 5. [Visual Results](#visual-results)
 6. [Key Findings](#key-findings)
 7. [Insights & Conclusions](#insights--conclusions)
-8. [Submission Files](#submission-files)
 
 ---
 
