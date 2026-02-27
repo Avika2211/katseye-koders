@@ -8,13 +8,13 @@
 
 ## 📑 Table of Contents
 
-1. [Executive Summary]
-2. [Model Architecture]
-3. [Training Process]
-4. [Performance Analysis]
-5. [Visual Results]
-6. [Key Findings]
-7. [Insights & Conclusions]
+1. Executive Summary
+2. Model Architecture
+3. Training Process
+4. Performance Analysis
+5. Visual Results
+6. Key Findings
+7. Insights & Conclusions
 
 ---
 
